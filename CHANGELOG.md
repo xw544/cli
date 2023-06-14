@@ -1,5 +1,27 @@
 # Changelog
 
+## [9.7.2](https://github.com/npm/cli/compare/v9.7.1...v9.7.2) (2023-06-14)
+
+### Bug Fixes
+
+* [`40d7e09`](https://github.com/npm/cli/commit/40d7e09aa9c038bc20e37c4fbd21d02dc82b93a7) [#6555](https://github.com/npm/cli/pull/6555) remove unnecessary package.json values (#6555) (@lukekarrys)
+* [`3a7378d`](https://github.com/npm/cli/commit/3a7378d889707d2a4c1f8a6397dda87825e9f5a3) [#6554](https://github.com/npm/cli/pull/6554) cleanup bin contents (@lukekarrys)
+* [`e722439`](https://github.com/npm/cli/commit/e722439b05bb4da691975359db58eac794f1f5d9) [#6497](https://github.com/npm/cli/pull/6497) move all definitions to @npmcli/config package (@lukekarrys)
+
+### Documentation
+
+* [`cd1e6aa`](https://github.com/npm/cli/commit/cd1e6aa320ccc264f5027de5976bb7acc32f1ded) [#6551](https://github.com/npm/cli/pull/6551) add flag `package-lock-only` for `npm install` (#6551) (@m4rch3n1ng)
+
+### Dependencies
+
+* [Workspace](https://github.com/npm/cli/releases/tag/arborist-v6.2.10): `@npmcli/arborist@6.2.10`
+* [Workspace](https://github.com/npm/cli/releases/tag/config-v6.2.1): `@npmcli/config@6.2.1`
+* [Workspace](https://github.com/npm/cli/releases/tag/libnpmdiff-v5.0.18): `libnpmdiff@5.0.18`
+* [Workspace](https://github.com/npm/cli/releases/tag/libnpmexec-v6.0.1): `libnpmexec@6.0.1`
+* [Workspace](https://github.com/npm/cli/releases/tag/libnpmfund-v4.0.18): `libnpmfund@4.0.18`
+* [Workspace](https://github.com/npm/cli/releases/tag/libnpmpack-v5.0.18): `libnpmpack@5.0.18`
+* [Workspace](https://github.com/npm/cli/releases/tag/libnpmpublish-v7.4.0): `libnpmpublish@7.4.0`
+
 ## [9.7.1](https://github.com/npm/cli/compare/v9.7.0...v9.7.1) (2023-06-06)
 
 ### Dependencies

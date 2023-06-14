@@ -1,5 +1,11 @@
 # Changelog
 
+## [6.2.10](https://github.com/npm/cli/compare/arborist-v6.2.9...arborist-v6.2.10) (2023-06-14)
+
+### Bug Fixes
+
+* [`40d7e09`](https://github.com/npm/cli/commit/40d7e09aa9c038bc20e37c4fbd21d02dc82b93a7) [#6555](https://github.com/npm/cli/pull/6555) remove unnecessary package.json values (#6555) (@lukekarrys)
+
 ## [6.2.9](https://github.com/npm/cli/compare/arborist-v6.2.8...arborist-v6.2.9) (2023-05-03)
 
 ### Bug Fixes
